@@ -1,0 +1,11 @@
+1st game idea:
+The player's role is a game UI designer, 
+who's goal is to make game menu mockups from wireframes/sketches of the clients. 
+The more accurate the mockup, the higher the score. 
+The player fails if they run out of time and/or get a low score.
+
+2nd game idea:
+It's a game where you create the UI of the game. 
+It starts as a game with only wireframes as the interface. 
+The goal is to design the UI (game menu mockups) of this game 
+based on the wireframes. 
